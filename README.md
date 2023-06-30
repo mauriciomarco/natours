@@ -1,3 +1,3 @@
 # NATOURS
 
-* super dope and cool MERN app built by me and jonas
+* super dope and cool MEN app built by me and jonas
